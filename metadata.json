@@ -1,0 +1,6 @@
+{
+  "name": "Jack -- 3D Creator",
+  "description": "3D Creator portfolio landing page featuring high-impact visual design, magnetic portrait, interactive project showcase, and dynamic scroll marquee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
